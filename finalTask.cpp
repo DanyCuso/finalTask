@@ -1,3 +1,8 @@
+/****************************************************************
+ * 					Daniel Valdes Artiles						*
+ * 					    Mariano Miranda							*
+ ****************************************************************/
+
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
